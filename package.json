@@ -1,0 +1,21 @@
+{
+  "name": "peak-vs",
+  "displayName": "peak.vs",
+  "description": "A Visual Studio Code theme inspired by https://github.com/alemidev/peak.nvim.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "peak-vs",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme.json"
+      }
+    ]
+  }
+}
